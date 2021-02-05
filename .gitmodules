@@ -1,4 +1,0 @@
-[submodule "credit_limit_alert"]
-	path = credit_limit_alert
-	url = git@github.com:xmarts/credit_limit_alert_update.git
-	branch = 13.0
