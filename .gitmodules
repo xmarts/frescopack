@@ -1,3 +1,0 @@
-[submodule "credit_limit_alert"]
-	path = credit_limit_alert
-	url = git@gitlab.com:xmarts/xmarts-apps/credit_limit_alert.git
