@@ -11,3 +11,8 @@
 	path = mrp_frescopack
 	url = git@github.com:xmarts/mrp_frescopack.git
 	branch = 13.0
+
+[submodule "xmarts-embarque"]
+	path = xmarts-embarque
+	url = git@github.com:xmarts/xmarts-embarque.git
+	branch = 13.0
