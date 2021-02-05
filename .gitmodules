@@ -6,3 +6,8 @@
 	path = ninja_dashboard
 	url = git@github.com:viernes/ninja_dashboard.git
 	branch = V13
+
+[submodule "mrp_frescopack"]
+	path = mrp_frescopack
+	url = git@github.com:xmarts/mrp_frescopack.git
+	branch = 13.0
