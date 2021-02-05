@@ -21,3 +21,6 @@
 	path = xmarts_partner_cred_limit
 	url = git@github.com:xmarts/xmarts_partner_cred_limit.git
 	branch = master
+[submodule "invoice_count"]
+	path = invoice_count
+	url = git@gitlab.com:xmarts/xmarts-apps/invoice_count.git
