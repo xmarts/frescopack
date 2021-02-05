@@ -1,3 +1,8 @@
 [submodule "credit_limit_alert"]
 	path = credit_limit_alert
 	url = git@gitlab.com:xmarts/xmarts-apps/credit_limit_alert.git
+
+[submodule "ninja_dashboard"]
+	path = ninja_dashboard
+	url = git@github.com:viernes/ninja_dashboard.git
+	branch = V13
