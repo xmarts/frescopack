@@ -16,3 +16,8 @@
 	path = xmarts-embarque
 	url = git@github.com:xmarts/xmarts-embarque.git
 	branch = 13.0
+
+[submodule "xmarts_partner_cred_limit"]
+	path = xmarts_partner_cred_limit
+	url = git@github.com:xmarts/xmarts_partner_cred_limit.git
+	branch = master
